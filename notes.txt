@@ -1,5 +1,5 @@
 ### 画面遷移図
-Figma：https://www.figma.com/design/wcPMrkebXt0pddP57IUGYE/Untitled?node-id=6-374&t=m3XJPjHWfp2wrDpp-1
+Figma：https://www.figma.com/design/wcPMrkebXt0pddP57IUGYE/Untitled?node-id=6-374&t=uTq81YFWyJ6qHy3V-1
 
 ### READMEに記載した機能
 - [x] ユーザー登録機能
